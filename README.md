@@ -1,5 +1,5 @@
 # diabetes-detection
-this repo is for diabetes-detection using machine learning  and create docker images  
+this repo is for diabetes-detection (type 2) using machine learning  and create docker images  
 
 for building a docker images we need to install docker 
 
